@@ -1,3 +1,8 @@
-# First Chapter
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+
+![](file:///C:\Users\whyiu\AppData\Local\Temp\ksohtml\wps794C.tmp.jpg)
+
+![](file:///C:\Users\whyiu\AppData\Local\Temp\ksohtml\wps794D.tmp.jpg)
+
+![](file:///C:\Users\whyiu\AppData\Local\Temp\ksohtml\wps794E.tmp.jpg)
+
