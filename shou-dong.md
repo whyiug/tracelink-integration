@@ -1,10 +1,12 @@
-# 简述
+# 人工操作 \( SNX & SOM Automatically \)
+
+## 简述
 
 这一章讲解了在Tracelink平台的人工操作。
 
 在没有类似RED4S/SDC这样好用的系统时，企业可以手动进行这样的操作。
 
-# 名词解释
+## 名词解释
 
 > reserved: 保留；生成或获取到序列码的初始状态；
 >
@@ -22,13 +24,11 @@
 >
 > destroyed: 销毁；只有commissioned状态的序列码可以被销毁；抽检留样，留取样张，废弃等都可以作为销毁事件；
 
-
-
-# 序列码的流转周期
+## 序列码的流转周期
 
 ![](/assets/2.1import.png)
 
-# 注意
+## 注意
 
 > 只有reserved状态才可以操作deactivated event；
 >

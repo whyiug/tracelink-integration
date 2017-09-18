@@ -6,7 +6,7 @@
   * [1.2 查看产品信息](chapter1/2.md)
 * [二、人工操作\(SNX &SOM Manually\)](shou-dong.md)
   * [2.1 序列码申请\(Request Numbers\)](shou-dong/xu-lie-ma-shen-8bf728-request-numbers.md)
-  * [2.2 序列码使用\(Disposition Assgined\)](xu-lie-ma-shi-yong.md)
+  * [2.2 序列码使用\(Disposition Assigned\)](xu-lie-ma-shi-yong.md)
     * [2.2.1 赋码事件\(Commission Event\)](xu-lie-ma-shi-yong/fu-ma-shi-4ef628-commission-event.md)
     * [2.2.2 关联事件\(Aggregation Event\)](xu-lie-ma-shi-yong/guan-lian-shi-4ef628-aggregation-event.md)
     * [2.2.3 解除关联事件\(Disaggregation Event\)](xu-lie-ma-shi-yong/jie-chu-guan-lian-shi-4ef628-disaggregation-event.md)
