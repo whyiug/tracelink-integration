@@ -6,5 +6,7 @@
 
 # 界面示意图
 
-![](/assets/2.6.1import.png)
+![](/assets/2.6.1import.png)![](/assets/2.5.8.1import.png)
+
+绿色箭头表示成功；
 
