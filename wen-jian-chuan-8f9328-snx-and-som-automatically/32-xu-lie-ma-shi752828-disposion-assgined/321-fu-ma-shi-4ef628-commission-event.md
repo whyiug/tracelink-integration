@@ -1,4 +1,4 @@
-```css
+```xml
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:CanonicalSNXDispositionAssignedEventType xmlns="urn:tracelink:mapper:sl:canonical:commontypes" xmlns:ns2="urn:tracelink:mapper:sl:canonical:serial_number_exchange">
     <ns2:ControlFileHeader>
@@ -39,7 +39,6 @@
         </ns2:CommissionEvent>
     </ns2:MessageBody>
 </ns2:CanonicalSNXDispositionAssignedEventType>
-
 ```
 
 
