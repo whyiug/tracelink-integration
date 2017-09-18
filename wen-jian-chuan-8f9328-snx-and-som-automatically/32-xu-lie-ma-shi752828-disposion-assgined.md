@@ -12,11 +12,7 @@
 >
 > 注意SSCC的filter Value，当用于零箱时，这里是4，而Extension Digit为5\(可变\)；
 
-
-
-# 零箱使用SGTIN
-
-
+## 零箱使用SGTIN
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -115,13 +111,11 @@
     </snx:AggregationEvent>
   </MessageBody>
 </SNXDispositionAssignedMessage>
-
 ```
 
-# 零箱使用SSCC
+## 零箱使用SSCC
 
-```
-<?xml version="1.0" encoding="utf-8"?>
+```xml
 <SNXDispositionAssignedMessage xmlns:snx="urn:tracelink:mapper:sl:serial_number_exchange" xmlns="urn:tracelink:mapper:sl:serial_number_exchange" xmlns:cmn="urn:tracelink:mapper:sl:commontypes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <snx:ControlFileHeader>
     <cmn:FileSenderNumber>6970021750014</cmn:FileSenderNumber>
@@ -211,7 +205,6 @@
     </snx:AggregationEvent>
   </MessageBody>
 </SNXDispositionAssignedMessage>
-
 ```
 
 

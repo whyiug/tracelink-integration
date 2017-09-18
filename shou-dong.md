@@ -1,4 +1,4 @@
-# 人工操作 \( SNX & SOM Automatically \)
+# 手动操作 \( SNX & SOM Manually \)
 
 ## 简述
 
