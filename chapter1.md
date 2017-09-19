@@ -12,7 +12,5 @@
 
 # 一图胜千言
 
-![](/assets/123import.png)
-
-
+![](/assets/2r1import.png)
 
