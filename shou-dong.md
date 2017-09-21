@@ -26,7 +26,11 @@
 
 ## 序列码的流转周期
 
-![](/assets/2.1import.png)
+# ![](/assets/2.1import.png)
+
+## 我这样定义码状态
+
+![](/assets/123111import.png)
 
 ## 注意
 
