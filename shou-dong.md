@@ -26,19 +26,21 @@
 
 ## 序列码的流转周期
 
-# ![](/assets/2.1import.png)
-
-## 我这样定义码状态
-
-![](/assets/123111import.png)
-
-## 注意
+# ![](/assets/2.1import.png)注意
 
 > 只有reserved状态才可以操作deactivated event；
 >
 > 只有commissioned状态才可以操作destoryed event；
 >
 > destroyed event 包括damaged, recalled, sampled, expired等
+
+
+
+## 我这样定义码状态
+
+![](/assets/123111import.png)
+
+## 
 
 
 
