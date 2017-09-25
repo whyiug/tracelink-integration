@@ -14,7 +14,7 @@
   * [2.4 包装事件日志\(Packaging Events Log\)](shou-dong/bao-zhuang-shijian-ri-5fd728-packaging-events-log.md)
   * [2.5 序列码事件上传](shou-dong/xu-lie-ma-shi-jian-shang-chuan.md)
     * [2.5.1 \* 生产关联关系\(SNX Disposion Assigned \)](shou-dong/xu-lie-ma-shi-jian-shang-chuan/shang-chuan-sheng-chan-guan-lian-guan-7cfb28-disposion-assigned.md)
-    * [2.5.2 序列码更新\(SNX Disposion Updated\)](shou-dong/xu-lie-ma-shi-jian-shang-chuan/shang-chuan-chu-ku-wen-jian.md)
+    * [2.5.2 \* 序列码更新\(SNX Disposion Updated\)](shou-dong/xu-lie-ma-shi-jian-shang-chuan/shang-chuan-chu-ku-wen-jian.md)
     * [2.5.3 解除关联文件\(Disaggregated\)](shou-dong/xu-lie-ma-shi-jian-shang-chuan/shang-chuan-jie-chu-guan-lian-wen-4ef628-disaggregated.md)
     * [2.5.4 \* 出库文件\(SOM Salesshipment\)](shou-dong/xu-lie-ma-shi-jian-shang-chuan/shang-chuan-chu-ku-wen-4ef628-som-salesshipment.md)
 * [三、文件传输\(SNX & SOM Automatically\)](wen-jian-chuan-8f9328-snx-and-som-automatically.md)
